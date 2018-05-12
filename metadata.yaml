@@ -13,6 +13,8 @@ creator:
     wikipedia: http://www.brown.edu/Administration/News_Bureau/Databases/Encyclopedia/search.php?serial=A0150
 description: The estranger.-A poet's toll.-The phrase-maker.-A Roman citizen.-Fortune's
   ledger.-A road to Rome.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18100#Roads-from-Rome
 gutenberg_issued: '2006-04-01'
 gutenberg_type: Text
 identifiers:
