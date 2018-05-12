@@ -1,0 +1,30 @@
+_repo: Roads-from-Rome_18100
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allinson, Anne C. E. (Anne Crosby Emery)
+    birthdate: 1871
+    deathdate: 1932
+    gutenberg_agent_id: '7808'
+    url: http://www.gutenberg.org/2009/agents/7808
+    wikipedia: http://www.brown.edu/Administration/News_Bureau/Databases/Encyclopedia/search.php?serial=A0150
+description: The estranger.-A poet's toll.-The phrase-maker.-A Roman citizen.-Fortune's
+  ledger.-A road to Rome.
+gutenberg_issued: '2006-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- Social life and customs'
+- !lcc 'DG'
+tableOfContents: The estranger -- A poet's toll -- The phrase-maker -- A Roman citizen
+  -- Fortune's ledger -- A road to Rome.
+title: Roads from Rome
+url: http://www.gutenberg.org/ebooks/18100
